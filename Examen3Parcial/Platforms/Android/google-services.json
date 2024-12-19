@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "529828730902",
+    "firebase_url": "https://examenm2-notas-default-rtdb.firebaseio.com",
+    "project_id": "examenm2-notas",
+    "storage_bucket": "examenm2-notas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529828730902:android:66484e5dc0506473587d37",
+        "android_client_info": {
+          "package_name": "com.company.Examen3P"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOZTAXOJ-p7jfW8Rflo9JnwuoZQrKNw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529828730902:android:46a701e5dbccd798587d37",
+        "android_client_info": {
+          "package_name": "com.company.Examen3Parcial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOZTAXOJ-p7jfW8Rflo9JnwuoZQrKNw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
